@@ -3,14 +3,14 @@
     "id": 1,
     "name": "Bitcoin",
     "symbol": "BTC",
-    "current_price": 30000,
+    "current_price": 100000,
     "is_favourite": false
   },
   {
     "id": 2,
     "name": "Etherum",
     "symbol": "ETH",
-    "current_price": 2000,
+    "current_price": 2600,
     "is_favourite": false
   },
   {
@@ -31,7 +31,7 @@
     "id": 5,
     "name": "Solana",
     "symbol": "SOL",
-    "current_price": 20,
+    "current_price": 170,
     "is_favourite": false
   }
 ]
