@@ -25,7 +25,7 @@ const Home = () => {
         <Typography
           sx={{
             fontFamily: '"Jersey 10", sans-serif',
-            fontSize: "64px",
+            fontSize: { xs: "30px", sm: "64px" },
             color: "#fff",
           }}
         >
@@ -33,7 +33,7 @@ const Home = () => {
         </Typography>
         <Typography
           sx={{
-            fontSize: "28px",
+            fontSize: { xs: "16px", sm: "28px" },
             color: "#fff",
             fontWeight: 600,
           }}
@@ -44,7 +44,7 @@ const Home = () => {
         <Container
           sx={{
             display: "flex",
-            gap: 3,
+            gap: { xs: 1, sm: 3 },
             marginTop: 3,
             justifyContent: "center",
           }}
@@ -56,7 +56,7 @@ const Home = () => {
               textDecoration: "none",
               color: "#fff",
               backgroundColor: "#FF0000",
-              padding: "10px 20px",
+              padding: { xs: "5px 10px", sm: "10px 20px" },
               borderRadius: "5px",
             }}
           >
@@ -69,7 +69,7 @@ const Home = () => {
               textDecoration: "none",
               color: "#fff",
               backgroundColor: "#2F8D2F",
-              padding: "10px 20px",
+              padding: { xs: "5px 10px", sm: "10px 20px" },
               borderRadius: "5px",
             }}
           >
