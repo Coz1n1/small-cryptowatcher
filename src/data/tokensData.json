@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "current_price": 30000,
+    "is_favourite": false
+  },
+  {
+    "id": 2,
+    "name": "Etherum",
+    "symbol": "ETH",
+    "current_price": 2000,
+    "is_favourite": false
+  },
+  {
+    "id": 3,
+    "name": "Polygon",
+    "symbol": "POL",
+    "current_price": 0.5,
+    "is_favourite": false
+  },
+  {
+    "id": 4,
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "current_price": 5,
+    "is_favourite": false
+  },
+  {
+    "id": 5,
+    "name": "Solana",
+    "symbol": "SOL",
+    "current_price": 20,
+    "is_favourite": false
+  }
+]
